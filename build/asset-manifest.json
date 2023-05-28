@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ceb62a7.css",
+    "main.js": "/static/js/main.f6b0a049.js",
+    "static/media/souvik1.png": "/static/media/souvik1.f9dfb18844d09455d5cb.png",
+    "static/media/Souvik_Ghosh_Resume.pdf": "/static/media/Souvik_Ghosh_Resume.9ea3002822fba70aa709.pdf",
+    "static/media/me.png": "/static/media/me.f4e3f787722190dfd3af.png",
+    "static/media/Sg (2).png": "/static/media/Sg (2).9c1d4cb63a837f5b4c5e.png",
+    "index.html": "/index.html",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.2ceb62a7.css.map": "/static/css/main.2ceb62a7.css.map",
+    "main.f6b0a049.js.map": "/static/js/main.f6b0a049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ceb62a7.css",
+    "static/js/main.f6b0a049.js"
+  ]
+}
