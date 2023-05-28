@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import SocialIcons from "../components/SocialIcons";
 import { useInView } from "react-intersection-observer";
 import { useState, useEffect } from "react";
-import resume from "../pages/about/Souvik_Ghosh_Resume.pdf";
+import resume from "../pages/about/CV_souvik_ghosh.docx";
 
 
 const AboutMe = ({ name, email, location, availability, brand }) => {
