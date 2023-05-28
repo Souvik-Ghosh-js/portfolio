@@ -22,7 +22,7 @@ const AboutMe = ({ name, email, location, availability, brand }) => {
     setDownloading(true);
     const link = document.createElement("a");
     link.href = resume;
-    link.download = "Souvik_Ghosh_Resume.pdf";
+    link.download = "CV_souvik_ghosh.docx";
     link.onload = () => {
       link.remove();
       setDownloading(false);
